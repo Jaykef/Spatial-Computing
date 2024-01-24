@@ -1,5 +1,5 @@
 # Spatial-Computing
-All you need to know the evolving field of Spatial Computing - Research papers with code implementation
+All you need to know about the rapidyly evolving field of Spatial Computing - Research papers with code implementation
 
 Spatial Computing - refers to the programming and engineering of computers systems to understand and interact with the physical world in real-time.
 
