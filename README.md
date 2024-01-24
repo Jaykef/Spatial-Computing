@@ -8,3 +8,10 @@ Spatial Computing - refers to the programming and engineering of computers syste
 ### Research Papers
 1. Spatial Computing and Intuitive Interaction: Bringing Mixed Reality and Robotics Together <a href="https://github.com/Jaykef/Spatial-Computing/blob/main/Research-Papers/Spatial-Computing-and%20Intuitive-Interaction.pdf">Read</a>
 2. SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities <a href="https://arxiv.org/pdf/2401.12168.pdf">Read</a>
+3. Deep Learning Development Environment in Virtual Reality<a href="https://arxiv.org/pdf/1906.05925v1.pdf">Read</a>
+
+### Code Implementations
+
+### Frameworks
+
+
