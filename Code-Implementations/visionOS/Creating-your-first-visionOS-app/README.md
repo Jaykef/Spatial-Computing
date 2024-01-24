@@ -8,7 +8,7 @@ If you’re new to visionOS, start with a new Xcode project to learn about the p
 
 In any SwiftUI app, you place content onscreen using scenes. A scene contains the views and controls to display onscreen. Scenes also define the appearance of those views and controls when they appear onscreen. In visionOS, you can include both 2D and 3D views in the same scene, and you can present those views in a window or as part of the person’s surroundings.
 
-<img width="100" src="https://docs-assets.developer.apple.com/published/2128a03dea1096ca3ba51b13db64a4af/2D-window@2x.png" /> <img width="100" src="https://docs-assets.developer.apple.com/published/2128a03dea1096ca3ba51b13db64a4af/2D-window@2x.png" />
+<img width="500" src="https://docs-assets.developer.apple.com/published/2128a03dea1096ca3ba51b13db64a4af/2D-window@2x.png" /> <img width="500" src="https://docs-assets.developer.apple.com/published/2128a03dea1096ca3ba51b13db64a4af/2D-window@2x.png" />
 
 A screenshot that shows a 2D window presented in a room that contains a couch and a lamp. The window shows the Destination Video sample app, showing three featured tiles. Each tile contains a poster photo, a title, and descriptive text.
 Scene with a window
