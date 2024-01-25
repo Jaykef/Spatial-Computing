@@ -1,5 +1,5 @@
 # Spatial-Computing
-All you need to know about the rapidyly evolving field of Spatial Computing - Research papers with code implementation
+All you need to know about the rapidyly evolving field of Spatial Computing - Research papers with code implementations
 
 ![jarvis](https://github.com/Jaykef/Spatial-Computing/assets/11355002/e276e9fc-d3f9-42ad-922f-8e2a87e9ffb2)
 
