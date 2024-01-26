@@ -36,7 +36,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
 
 #### Mixed Reality (AR)
 <ul>
-  <li><a href=""></a></li>
+  <li>Alignment of the Virtual Scene to the Tracking Space of a Mixed Reality Head-Mounted Display <a href="https://arxiv.org/pdf/1703.05834v4.pdf">Paper</a> | <a href="https://github.com/qian256/HoloLensARToolKit">Code</a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
