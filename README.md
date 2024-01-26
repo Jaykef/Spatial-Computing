@@ -3,7 +3,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
 
 ![jarvis](https://github.com/Jaykef/Spatial-Computing/assets/11355002/e276e9fc-d3f9-42ad-922f-8e2a87e9ffb2)
 
-### Research Papers
+## Research Papers
 #### The Fundamentals
 <ul>
   <li><a href="https://cdn.aaai.org/AAAI/1994/AAAI94-214.pdf">Basic Meanings of Spatial Relations: Computation and Evaluation in 3D Space - AAAI 1994</a></li>
@@ -47,7 +47,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
   <li><a href=""></a></li>
 </ul>
 
-### Code Implementations
+## Code Implementations
 
 <ul>
   <li><a href=""></a></li>
@@ -59,7 +59,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
   <li><a href=""></a></li>
 </ul>
 
-### Frameworks
+## Frameworks
 
 <ul>
   <li><a href=""></a></li>
@@ -71,7 +71,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
   <li><a href=""></a></li>
 </ul>
 
-### Books
+## Books
 
 <ul>
   <li><a href=""></a></li>
