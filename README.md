@@ -7,9 +7,9 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
 #### The Fundamentals
 <ul>
   <li>Basic Meanings of Spatial Relations: Computation and Evaluation in 3D Space - AAAI 1994<a href="https://cdn.aaai.org/AAAI/1994/AAAI94-214.pdf">Paper</a></li>
-  <li>Virtual Reality - IEEE 1998<a href="https://ieeexplore.ieee.org/document/666641">Paper</a></li>
   <li>Spatial Computing and Intuitive Interaction: Bringing Mixed Reality and Robotics Together<a href="https://github.com/Jaykef/Spatial-Computing/blob/main/Research-Papers/Spatial-Computing-and%20Intuitive-Interaction.pdf">Paper</a></li>
   <li>SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities<a href="https://arxiv.org/pdf/2401.12168.pdf"></a></li>
+  <li>Virtual Reality - IEEE 1998<a href="https://ieeexplore.ieee.org/document/666641">Paper</a></li>
   <li>Scalable Spatial Memory for Scene Rendering and Navigation - AAAI 2023<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25110">Paper</a></li>
   <li>Learning Continuous Depth Representation via Geometric Spatial Aggregator - AAAI 2023<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25369/25141">Paper</a></li>
 </ul>
