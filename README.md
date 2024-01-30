@@ -14,9 +14,9 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
   <li>Learning Continuous Depth Representation via Geometric Spatial Aggregator - AAAI 2023 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25369/25141">Paper</a></li>
 </ul>
 
-#### Virtual Reality (VR)
+#### Augmented Reality (MR)
 <ul>
-  <li>Deep Learning Development Environment in Virtual Reality <a href="https://arxiv.org/pdf/1906.05925v1.pdf">Paper</a> | <a href="https://github.com/Cobanoglu-Lab/Devoreann">Code</a></li>
+  <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
@@ -24,9 +24,9 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
   <li><a href=""></a></li>
 </ul>
 
-#### Augmented Reality (AR)
+#### Virtual Reality (VR)
 <ul>
-  <li><a href=""></a></li>
+  <li>Deep Learning Development Environment in Virtual Reality <a href="https://arxiv.org/pdf/1906.05925v1.pdf">Paper</a> | <a href="https://github.com/Cobanoglu-Lab/Devoreann">Code</a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
