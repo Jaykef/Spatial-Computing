@@ -14,7 +14,18 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
   <li>Learning Continuous Depth Representation via Geometric Spatial Aggregator - AAAI 2023 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25369/25141">Paper</a></li>
 </ul>
 
-#### Augmented Reality (MR)
+
+#### Mixed Reality (MR)
+<ul>
+  <li>Alignment of the Virtual Scene to the Tracking Space of a Mixed Reality Head-Mounted Display <a href="https://arxiv.org/pdf/1703.05834v4.pdf">Paper</a> | <a href="https://github.com/qian256/HoloLensARToolKit">Code</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+#### Augmented Reality (AR)
 <ul>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
@@ -34,15 +45,6 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
   <li><a href=""></a></li>
 </ul>
 
-#### Mixed Reality (AR)
-<ul>
-  <li>Alignment of the Virtual Scene to the Tracking Space of a Mixed Reality Head-Mounted Display <a href="https://arxiv.org/pdf/1703.05834v4.pdf">Paper</a> | <a href="https://github.com/qian256/HoloLensARToolKit">Code</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-</ul>
 
 ## Frameworks
 
