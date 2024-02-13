@@ -22,7 +22,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
   <li>BEHAVE: Dataset and Method for Tracking Human Object Interactions - CVPR 2022 <a href="https://arxiv.org/pdf/2204.06950v1.pdf">Paper</a> | <a href="https://github.com/xiexh20/behave-dataset">Code</a></li>
   <li>Alignment of the Virtual Scene to the Tracking Space of a Mixed Reality Head-Mounted Display <a href="https://arxiv.org/pdf/1703.05834v4.pdf">Paper</a> | <a href="https://github.com/qian256/HoloLensARToolKit">Code</a></li>
   <li>FastNeRF: High-Fidelity Neural Rendering at 200FPS - ICCV 2021 <a href="https://arxiv.org/pdf/2103.10380v2.pdf">Paper</a> | <a href="https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/FastNeRF_High_Fidelity_Neural_Rendering_at_200FPS">Code</a></li>
-  <li> <a href=""></a> | <a href=""></a></li>
+  <li>AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing <a href="https://arxiv.org/pdf/2207.13784v1.pdf">Paper</a> | <a href="https://github.com/eth-siplab/avatarposer">Code</a></li>
   <li> <a href=""></a> | <a href=""></a></li>
   <li> <a href=""></a> | <a href=""></a></li>
 </ul>
