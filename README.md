@@ -24,7 +24,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
   <li>FastNeRF: High-Fidelity Neural Rendering at 200FPS - ICCV 2021 <a href="https://arxiv.org/pdf/2103.10380v2.pdf">Paper</a> | <a href="https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/FastNeRF_High_Fidelity_Neural_Rendering_at_200FPS">Code</a></li>
   <li>AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing <a href="https://arxiv.org/pdf/2207.13784v1.pdf">Paper</a> | <a href="https://github.com/eth-siplab/avatarposer">Code</a></li>
   <li>Neural RGB-D Surface Reconstruction - CVPR 2022 <a href="https://arxiv.org/pdf/2104.04532v3.pdf">Paper</a> | <a href="https://github.com/dazinovic/neural-rgbd-surface-reconstruction">Code</a></li>
-  <li> <a href=""></a> | <a href=""></a></li>
+  <li>FastNeRF: High-Fidelity Neural Rendering at 200FPS - ICCV 2021 <a href="https://arxiv.org/pdf/2103.10380v2.pdf">Paper</a> | <a href="https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/FastNeRF_High_Fidelity_Neural_Rendering_at_200FPS">Code</a></li>
 </ul>
 
 #### Augmented Reality (AR)
