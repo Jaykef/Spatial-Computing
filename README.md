@@ -35,7 +35,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
 #### Augmented Reality (AR)
 <ul>
   <li>Agent Augmented Reality: A Software Agent Meets the Real World - ICMAS 1996 <a href="https://cdn.aaai.org/ICMAS/1996/ICMAS96-029.pdf">Paper</a></li>
-  <li> <a href=""></a> | <a href=""></a></li>
+  <li>DepthLab: Real-Time 3D Interaction With Depth Maps for Mobile Augmented Reality <a href="https://duruofei.com/papers/Du_DepthLab-Real-Time3DInteractionWithDepthMapsForMobileAugmentedReality_UIST2020.pdf">Paper</a> | <a href="https://github.com/googlesamples/arcore-depth-lab">Code</a></li>
   <li> <a href=""></a> | <a href=""></a></li>
   <li> <a href=""></a> | <a href=""></a></li>
   <li> <a href=""></a> | <a href=""></a></li>
