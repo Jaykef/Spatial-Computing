@@ -36,7 +36,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
 <ul>
   <li>Agent Augmented Reality: A Software Agent Meets the Real World - ICMAS 1996 <a href="https://cdn.aaai.org/ICMAS/1996/ICMAS96-029.pdf">Paper</a></li>
   <li>DepthLab: Real-Time 3D Interaction With Depth Maps for Mobile Augmented Reality <a href="https://duruofei.com/papers/Du_DepthLab-Real-Time3DInteractionWithDepthMapsForMobileAugmentedReality_UIST2020.pdf">Paper</a> | <a href="https://github.com/googlesamples/arcore-depth-lab">Code</a></li>
-  <li> <a href=""></a> | <a href=""></a></li>
+  <li>ARShadowGAN: Shadow Generative Adversarial Network for Augmented Reality in Single Light Scenes - CVPR 2020 <a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_ARShadowGAN_Shadow_Generative_Adversarial_Network_for_Augmented_Reality_in_Single_CVPR_2020_paper.pdf">Paper</a> | <a href="https://github.com/ldq9526/ARShadowGAN">Code</a></li>
   <li> <a href=""></a> | <a href=""></a></li>
   <li> <a href=""></a> | <a href=""></a></li>
 </ul>
