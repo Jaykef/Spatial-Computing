@@ -12,6 +12,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
   <li>Virtual Reality - IEEE 1998 <a href="https://ieeexplore.ieee.org/document/666641">Paper</a></li>
   <li>Scalable Spatial Memory for Scene Rendering and Navigation - AAAI 2023 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25110">Paper</a></li>
   <li>Learning Continuous Depth Representation via Geometric Spatial Aggregator - AAAI 2023 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25369/25141">Paper</a></li>
+  <li>Agent Augmented Reality: A Software Agent Meets the Real World - ICMAS 1996 <a href="https://cdn.aaai.org/ICMAS/1996/ICMAS96-029.pdf">Paper</a></li>
 </ul>
 
 
@@ -33,7 +34,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
 
 #### Augmented Reality (AR)
 <ul>
-  <li> <a href=""></a> | <a href=""></a></li>
+  <li>Agent Augmented Reality: A Software Agent Meets the Real World - ICMAS 1996 <a href="https://cdn.aaai.org/ICMAS/1996/ICMAS96-029.pdf">Paper</a></li>
   <li> <a href=""></a> | <a href=""></a></li>
   <li> <a href=""></a> | <a href=""></a></li>
   <li> <a href=""></a> | <a href=""></a></li>
