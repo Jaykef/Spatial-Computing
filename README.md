@@ -57,7 +57,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
   <li><a href="https://github.com/XRTK/com.xrtk.core">com.xrtk.core - Mix Reality Framework
 </a></li>
   <li><a href="https://github.com/hanleyweng/CoreML-in-ARKit">CoreML-in-ARKit - Template for an ARKit project to use CoreML.</a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://github.com/immersive-web/webxr">WebXR - Repository for the WebXR Device API Specification.</a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
