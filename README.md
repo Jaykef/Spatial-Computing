@@ -58,7 +58,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
 </a></li>
   <li><a href="https://github.com/hanleyweng/CoreML-in-ARKit">CoreML-in-ARKit - Template for an ARKit project to use CoreML.</a></li>
   <li><a href="https://github.com/immersive-web/webxr">WebXR - Repository for the WebXR Device API Specification.</a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://github.com/stemkoski/AR-Examples">AR Examples for the web</a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
