@@ -43,7 +43,7 @@ All you need to know about the rapidyly evolving field of Spatial Computing - Re
 #### Virtual Reality (VR)
 <ul>
   <li>Deep Learning Development Environment in Virtual Reality <a href="https://arxiv.org/pdf/1906.05925v1.pdf">Paper</a> | <a href="https://github.com/Cobanoglu-Lab/Devoreann">Code</a></li>
-  <li> <a href=""></a> | <a href=""></a></li>
+  <li>Interactive Camera Network Design using a Virtual Reality Interface <a href="https://arxiv.org/pdf/1809.07593v1.pdf">Paper</a> | <a href="https://github.com/BorisBogaerts/V-REP-VR-Interface">Code</a></li>
   <li> <a href=""></a> | <a href=""></a></li>
   <li> <a href=""></a> | <a href=""></a></li>
   <li> <a href=""></a> | <a href=""></a></li>
